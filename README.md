@@ -50,7 +50,7 @@ Dialog Flow Engine (DFE) allows you to write conversational services. The servic
 Python packages for Dialog Flow Engine Extending:
 - [dialog_flow_db_connector](https://github.com/deepmipt/dialog_flow_db_connector) (stable) - Contexts saver into json/pickle/postgres/mysql
 - [dialog_flow_generics](https://github.com/deepmipt/dialog_flow_generics) (stable) - Dialog Flow Generics introduces a GenericResponse class as well as generic classes for various media types. 
-- [dialog_flow_examples](https://github.com/kudep/dialog_flow_examples) (stable) - Data collection & Data analysis of user behaviors
+- [dialog_flow_examples](https://github.com/deepmipt/dialog_flow_examples) (stable) - Data collection & Data analysis of user behaviors
 - [dff-node-stats](https://github.com/kudep/dff-node-stats) (unstable) - Data collection & Data analysis of user behaviors
 - [df-addon-turn-caching](https://github.com/kudep/df_addon_turn_caching) (unstable) - Turn Caching
 - df-addon-tg-connector (planned) - Telegram connector for connecting to Telegram Messenger 
